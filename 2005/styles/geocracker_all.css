@@ -1,0 +1,77 @@
+a#help {
+	float: right;
+	font-size: 3em;
+}
+/*tabular display*/
+	table {
+		border: solid black 1px;
+		margin-bottom: 1em;
+	}
+	thead {
+		background-color: #eee;
+		color: #000;
+	}
+	tbody th {
+		text-align: left;
+	}
+	tbody th:after {
+		content: ":";
+	}
+	tbody tr, thead th {
+		text-align: center;
+	}
+	input { /*for IE*/
+		width: 40px;
+		overflow: visible;
+	}
+	input[type='text'] { /*for non-IE*/
+		width: auto;
+		max-width: 4em;
+	}
+	input.left {
+		text-align: center;
+	}
+	input.right {
+		text-align: left;
+	}
+
+/*visual display*/
+	#hud { /*base for absolute positioning of child*/
+		position: relative;
+		background-color: black;
+		border: 1mm #888 solid;
+		width: 3.75in; height: 3.75in; /*dynamically overridden*/
+	}
+	#dial_center { /*from top left corner of HUD*/
+		position: absolute;
+		width: 0; height: 0;
+		left: 1.875in; top: 1.875in; /*dynamically overridden*/
+	}
+	#p1, #p2, #p3 {
+		/*default center positions*/
+		position: absolute;
+		width: 0; height: 0;
+		left: 0; top: 0;
+	}
+
+	/*image properties (dimensions must also be entered in addVectors() function)*/
+		#dial_center img {
+			position: absolute;
+			width: 3.25in; height: 3.25in;
+			left: -1.625in; top: -1.625in;
+		}
+		img#p1_i { /*wheelpack crosshairs*/
+			position: absolute;
+			width: 1.9in; height: 1.9in;
+			left: -0.95in; top: -0.95in;
+		}
+		img#p2_i { /*drill point target image*/
+			position: absolute;
+			width: 0.5in; height: 0.5in;
+			left: -0.25in; top: -0.25in;
+		}
+		img#p3_i { /*drill point aim image*/
+			position: absolute;
+			width: 0.46in; height: 0.46in;
+			left: -0.23in; top: -0.23in;
+		}

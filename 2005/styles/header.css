@@ -1,0 +1,73 @@
+html {
+	color: #000;
+	background-color: #eee;
+	font-family: Helvetica, Arial, sans-serif;
+}
+#header h1 {
+	position: absolute;
+	top: 0;
+	right: 3%;
+	text-align: right;
+	font-size: 50px;
+	color: #777;
+	font-variant: small-caps;
+	font-weight: bold;
+	margin: 0;
+	height: 65px;
+}
+#header .tm {
+	color: #000;
+	font-size: 0.3em;
+	font-weight: normal;
+}
+#tab_bar {
+	position: absolute;
+	left: 0;
+	top: 45px;
+	height: 30px;
+	width: 100%;
+	color: #000;
+	font-size: 17px;
+	margin: 0;
+}
+#tab_bar a {
+	text-decoration: none;
+	font-weight: normal;
+	font-size: inherit;
+	margin-left: 0.1em; margin-right: 0.1em;
+	padding: 0 0.25em;
+	border-width: 1px 1px 0;
+	border-color: #000;
+	display: inline;
+	border-style: solid;
+	border-top-left-radius: 0.3em;
+	border-top-right-radius: 0.3em;
+	-webkit-border-top-left-radius: 0.3em;
+	-webkit-border-top-right-radius: 0.3em;
+	-moz-border-radius-topleft: 0.3em;
+	-moz-border-radius-topright: 0.3em;
+
+}
+a.tab_selected:link, .tab_selected:visited {
+	color: #eee;
+	background-color: #009b63; /*green*/
+}
+a.tab_unselected:link, .tab_unselected:visited {
+	color: #333;
+	background-color: #ddd;
+}
+a.tab_unselected:hover {
+	background-color: navajowhite;
+}
+#tagline {
+	background-color: #009b63; /*green*/
+	width: 97%;
+	top: 65px;
+	height: 30px;
+	color: #ddd;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: right;
+	padding-right: 3%;
+	margin: 0;
+}

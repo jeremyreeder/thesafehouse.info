@@ -1,0 +1,30 @@
+/* ComboGenerator - Style sheet for speech & aural media types */
+html {
+	volume: 50;
+	stress: 50;
+}
+script, noscript {
+	stress: 60;
+	speech-rate: slower;
+	volume: 80;
+}
+#output #combination {
+	speech-rate: slower;
+	volume: 65;
+}
+#footer {
+	stress: 60;
+	speech-rate: faster;
+}
+.acronym {
+	speak: spell-out;
+}
+.male {
+	voice-family: male;
+	azimuth: 45deg; /*front right*/
+}
+.female {
+	voice-family: female;
+	azimuth: -45deg; /*front left*/
+	richness: 40;
+}

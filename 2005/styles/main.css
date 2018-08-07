@@ -1,0 +1,153 @@
+html {
+	color: #000;
+	background-color: #dda;
+	font-family: Times, serif;
+}
+body {
+	margin: 0;
+	position: static;
+}
+#main {
+	margin: 0 1.5% 0 1.5%;
+}
+#images {
+	position: absolute;
+	right: 2%;
+	width: 22%;
+}
+#images img {
+	width: 100%;
+	margin: 30px 0 0;
+}
+#images .caption {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 0.7em;
+	margin: 0;
+}
+#nav {
+	position: fixed;
+	font-family: Helvetica, Arial, sans-serif;
+	left: 0;
+	top: 97px;
+	height: 80%;
+	max-width: 20em;
+	background-color: #ddd;
+	padding: 0 1em;
+	line-height: 1.8em;
+	border-color: #000;
+	border-style: solid;
+	border-width: 1px;
+	text-align: right;
+}
+#nav a:link, #nav a:visited {
+	display: block;
+	text-decoration: none;
+	color: #009b63; /*green*/
+	font-weight: bold;
+	border-style: groove;
+	border-color: #aaa;
+	border-width: 0 0 1px;
+}
+#nav a:hover {
+	color: #009b63; /*green*/
+	background-color: #eee;
+}
+#nav img {
+	position: absolute;
+	bottom: 1em;
+	left: 1em;
+	right: 1em;
+	width: 5em;
+}
+#content {
+	position: absolute;
+	top: 110px;
+	left: 22%;
+	right: 26%;
+}
+#content h2 {
+	font-size: 30px;
+	color: #777;
+	font-variant: small-caps;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+}
+#content .section {
+	background-color: oldlace;
+	padding: 0;
+	-moz-border-radius-bottomleft: 2%;
+	-moz-border-radius-bottomright: 2%;
+	margin: 30px 0;
+}
+#content p {
+	margin: 0;
+	padding: 0.7em 1.1em;
+}
+#content p a {
+	display: inline;
+}
+#content a:link, a:visited {
+	color: #080;
+	text-decoration: none;
+	font-weight: bold;
+}
+#content a:hover {
+	color: #0c0;
+	text-decoration: underline;
+}
+#content a:active {
+	background-color: #eee;
+}
+#content h3 {
+	color: #000;
+	font-weight: bold;
+	background-color: #ddd;
+	margin: 0;
+	border-style: solid;
+	border-width: 1px 1px 0;
+	border-color: #aaa;
+	padding: 0 1.1em;
+}
+.footnote {
+	font-style: oblique;
+	font-size: 0.85em;
+}
+.signature {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+.certification {
+	color: #009b63; /*green*/
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+}
+#footer {
+	clear: both;
+	margin-bottom: 0;
+	text-align: center;
+	color: oldlace;
+	background-color: saddlebrown;
+}
+.section table {
+	width: 100%;
+	background-color: white;
+	border-style: none;
+	margin: 0;
+}
+.section th {
+	text-align: left;
+	vertical-align: top;
+	padding-right: 0.5em;
+}
+.section td {
+	text-align: left;
+	vertical-align: bottom;
+}
+.section td img {
+	float: right;
+}
+.section img {
+	width: 100%;
+}

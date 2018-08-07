@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- GeoCracker v0.61gamma -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us">
+	<head>
+		<title>The Safe House&#8482; &#151; GeoCracker&#8482;: a geometric tool for professional safecrackers</title>
+		<meta name="keywords" content="safe,cracking,vault,penetrate,lock,smith" />
+		<link rel="stylesheet" type="text/css" href="styles/geocracker_all.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="styles/geocracker_print.css" media="print" />
+		<meta http-equiv="content-script-type" content="text/javascript" />
+		<script src="scripts/geocracker.js" language="ECMAScript3.0" type="text/javascript" class="female">
+			This page requires ECMAScript v3.0, which is not supported by your browser.
+			JavaScript v1.5 is a suitable implementation of ECMAScript.
+		</script>
+		<noscript class="female">
+			This page requires ECMAScript v3.0, which is not enabled in your browser.
+			JavaScript v1.5 is a suitable implementation of ECMAScript.
+			<a href="https://www.google.com/adsense/support/bin/answer.py?answer=12654">
+				More information...
+			</a>
+		</noscript>
+	</head>
+	<body onload="addVectors();">
+ 		<div id=header>
+			<a id=help target="tsh_help" href="geocracker_help.htm">?</a>
+			<h1>
+				GeoCracker&#8482;
+			</h1>
+			<p class="female">
+				Euclidean geometer for precision frontal penetration of safes &amp; vaults.<br />
+				Produced by
+				<a href="mailto:jeremy@thesafehouse.info">Jeremy Reeder, <span class="acronym">CJS</span></a>.
+				&copy; 2007 <a target="_top" href="http://thesafehouse.info/">The Safe House</a>. All rights reserved.
+			</p>
+		</div>
+ 		<div>
+			<form onsubmit="return false;">
+				<table>
+					<thead>
+						<tr>
+							<th>Configuration</th
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th>Angular Units</th>
+							<td>
+								<input type="text" value=100
+									onchange="this.value = setAngularUnits(this.value);"
+								/>
+							</td>
+						</tr>
+						<tr>
+							<th>Length Units</th>
+							<td>
+								<select onchange="setLengthUnits(this.options[this.selectedIndex].value);">
+									<option value="in">in</option>
+									<option value="mm">mm</option>
+								</select>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<table>
+					<thead>
+						<tr>
+							<td />
+							<th>
+								Wheelpack Center<br />(from dial center)
+							</th>
+							<td>+</td>
+							<th>
+								Drill Point<br />(from wheelpack center)
+							</th>
+							<td>=</td>
+							<th>
+								Drill Point<br />(from dial center)
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th>Polar</th>
+							<td>
+								<input id=p1_t type="text" value=0
+									onchange="validateAngle(this.id);
+									 polarToCartesian('p1');
+									 if (polarCoordIsComplete(this.id)) addVectors();"
+								>
+								x
+								<input id=p1_r type="text" value=0
+									onchange="validateLength(this.id);
+									 polarToCartesian('p1');
+									 addVectors();"
+								>
+							</td>
+							<td />
+							<td>
+								<input id=p2_t type="text" value=0
+									onchange="validateAngle(this.id);
+									 polarToCartesian('p2');
+									 if (polarCoordIsComplete(this.id)) addVectors();">
+								x
+								<input id=p2_r type="text" value=0
+									onchange="validateLength(this.id);
+									 polarToCartesian('p2');
+									 addVectors();"
+								>
+							</td>
+							<td />
+							<td>
+								<input id=p3_t type="text" value=0>
+								x <input id=p3_r type="text" value=0>
+							</td>
+						</tr>
+						<tr>
+							<th>Cartesian</th>
+							<td>
+								(<input id=p1_x type="text" value=0
+									onchange="addVectors();"
+								>,
+								<input id=p1_y type="text" value=0
+									onchange="addVectors();"
+								>)
+							</td>
+							<td />
+							<td>
+								(<input id=p2_x type="text" value=0
+									onchange="addVectors();"
+								>,
+								<input id=p2_y type="text" value=0
+									onchange="addVectors();"
+								>)
+							</td>
+							<td />
+							<td>
+								(<input id=p3_x type="text" value=0>,
+								<input id=p3_y type="text" value=0>)
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</form>
+			<div id=hud>
+				<div id=dial_center>
+					<img src="images/crosshairs-dial.gif" />
+					<div id=p1><!--wheelpack center, from dial center-->
+						<img id=p1_i src="images/crosshairs-wheelpack.gif" />
+						<div id=p2><!--drill point, from wheelpack center-->
+							<img id=p2_i src="images/target.gif" />
+						</div>
+					</div>
+					<div id=p3><!--drill point, from dial center-->
+						<img id=p3_i src="images/aim.gif" />
+					</div>
+				</div>
+			</div>
+ 		</div>
+		<p id=footer class="female">
+			This software is free for use by qualified safe technicians.
+		</p>
+	</body>
+</html>

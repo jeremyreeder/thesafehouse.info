@@ -1,0 +1,53 @@
+/* ComboGenerator - Style sheet for all media types */
+html {
+	font-family: Times, serif;
+}
+script, noscript {
+	color: #000;
+	background-color: yellow;
+	font-weight: bold;
+	size: 1.5em;
+}
+#header {
+	color: #000;
+	background-color: #eee;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+#header p {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+#output {
+	margin-top: 1em;
+}
+#output input {
+	font-size: 1.5em;
+}
+#output #combination {
+	width: 20em;
+	font-size: 1.8em;
+}
+#lock input {
+	max-width: 5em;
+}
+#hand, #contact_section, #contact_specs {
+	display: none;
+}
+#footer {
+	color: #000;
+	background-color: #eee;
+	padding-left: 3%;
+	padding-right: 3%;
+	max-width: 40em;
+}
+#statistics {
+	display: none;
+}
+#rejection_rate {
+	max-width: 10em;
+}
+#bad_combo {
+	min-width: 17em;
+	display: none;
+}

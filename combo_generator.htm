@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- ComboGenerator v1.51 -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us">
+	<head>
+		<title>The Safe House&#8482; &#151; ComboGenerator&#8482;: combination generator for mechanical combination locks</title>
+		<meta name="keywords" content="safe,vault,technician,lock,smith,tool,combination,change" />
+		<link rel="stylesheet" type="text/css" href="styles/combo_generator_all.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="styles/combo_generator_speech.css" media="speech, aural" />
+		<meta http-equiv="content-script-type" content="text/javascript" />
+		<script src="scripts/combo_generator.js" language="ECMAScript3.0" type="text/javascript" class="female">
+			This page requires ECMAScript v3.0, which is not supported by your browser.
+			JavaScript v1.5 is a suitable implementation of ECMAScript.
+		</script>
+		<noscript class="female">
+			This page requires ECMAScript v3.0, which is not enabled in your browser.
+			JavaScript v1.5 is a suitable implementation of ECMAScript.
+			<a href="https://www.google.com/adsense/support/bin/answer.py?answer=12654">
+				More information...
+			</a>
+		</noscript>
+	</head>
+	<body onload="initForm(document.getElementById('lock_form'));">
+ 		<div id=header>
+			<h1 class="male">
+				ComboGenerator&#8482;<br />
+				(for single-dial, multi-wheel locks)
+			</h1>
+			<p class="female">
+				Produced by
+				<a href="mailto:jeremy@thesafehouse.info">Jeremy Reeder, <span class="acronym">CPS</span></a>.
+				&copy; 2004-2007 <a target="_top" href="http://thesafehouse.info/">The Safe House</a>. All rights reserved.
+			</p>
+		</div>
+ 		<div id=main class="male">
+ 			<form id=lock_form onSubmit="this.combination.value = combinate(this); return false;">
+ 				<div id=output>
+					<input id=submit type="submit" value="Combinate" />
+ 					<input id=combination type="text" name="combination" />
+				</div>
+				<div id=lock>
+					<h2>Lock specifications</h2>
+					<ul>
+						<li>Dial graduations
+							<ul>
+								<li>Minimum:
+									<input id=dial_min name="dial_min" type="text" value=0
+									 onchange=
+									  "this.value = parseInt(this.value);
+									  dialChange(this, document.getElementById('dial_max'));"
+									/>
+								</li>
+								<li>Maximum:
+									<input id=dial_max name="dial_max" type="text" value=99
+									 onchange=
+									  "this.value = parseInt(this.value);
+									  dialChange(document.getElementById('dial_min'), this);"
+									/>
+								</li>
+							</ul>
+						</li>
+						<li>Body construction
+							<ul>
+								<li>Wheels:
+									<input name="wheels" type="text" value=3
+										onchange=
+										 "this.value = Math.floor(this.value);
+										 if (this.value<2) this.value=2;
+										 else if (this.value>12) this.value=12;"
+									/>
+								</li>
+								<li>Fence mechanism: 
+									<select name="fence" onchange="fenceChange(this);">
+										<option value="spring" selected>spring</option>
+										<option value="gravity">gravity</option>
+										<option value="friction">friction</option>
+										<option value="direct entry">direct entry</option>
+									</select>
+								</li>
+								<li id=hand>Hand: 
+									<select name="hand">
+										<option value="RH" selected>RH</option>
+										<option value="LH">LH</option>
+									</select>
+								</li>
+							</ul>
+						</li>
+						<li>Safety parameters
+							<ul>
+								<li id=contact_section>
+									<input name="contact_area" type="checkbox" checked
+									 onchange="contactAreaChange(this);" />
+									Contact area
+									<ul id=contact_specs>
+										<li>Left contact:
+											<input id=left_contact name="left_contact" type="text" value=5
+												onchange=
+												 "this.value = Math.floor(this.value);"
+											/>
+										</li>
+										<li>Right contact:
+											<input id=right_contact name="right_contact" type="text" value=15
+												onchange=
+												 "this.value = Math.ceil(this.value);"
+											/>
+										</li>
+										<li>Contact safety:
+											<input id=contact_safety name="contact_safety" type="text" value=6
+												onchange="this.value = Math.ceil(this.value);"
+											/>
+										</li>
+									</ul>
+								</li>
+								<li>Fly safety:
+									<input id=fly_safety name="fly_safety" type="text" value=10
+										onchange="this.value = Math.max(Math.ceil(this.value), 1);"
+									/>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+ 			</form>
+ 		</div>
+		<p id=footer class="female">
+			This product is free for use by qualified safe technicians.<br />
+			Configured properly, it produces secure combinations that do not violate mechanical principles.
+		</p>
+		<div id=statistics class="male">
+			Rejection rate:
+			<input id=rejection_rate type="text" name="rejection_rate" />
+			<input id=bad_combo type="text" name="bad_combo" />
+		</div>
+	</body>
+</html>

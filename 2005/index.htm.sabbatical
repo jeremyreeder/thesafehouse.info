@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" />
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>The Safe House&#8482; - Jeremy Reeder, master safecracker &amp; locksmith in Meridian (Boise area), Idaho</title>
+		<meta name="keywords" content="safe,house,cracker,vault,repair,technician,lock,smith,service,boise,idaho" />
+		<meta name="description" content="The Safe House is a business, operated by Jeremy Reeder, master safecracker and locksmith, that specializes in safe and vault security services." />
+    <link rel="stylesheet" type="text/css" href="styles/main.css" media="all" />
+		<!--[if lt IE 7]>
+			<link rel="stylesheet" type="text/css" href="styles/main-ie6.css" media="all" />
+		<![endif]-->
+	</head>
+	<body>
+		<iframe src="header.php?tab=services" width=100% height=100px noresize scrolling="no">
+			The Safe House&#8482;
+		</iframe>
+		<?php include('header.php?tab=services'); ?>
+ 		<div id="main">
+			<div id="images">
+				<img src="images/JeremyReeder.jpg" />
+				<div class="caption">
+					Jeremy Reeder, master safecracker
+				</div>
+				<img src="images/jacknife-open.jpg" />
+				<div class="caption">
+					A mastery of lock-manipulation skills enables me to open many locks and safes
+					relatively quickly through non-invasive methods.
+				</div>
+				<img src="images/helixbullet.jpg" />
+				<div class="caption">
+					A powerful safe-drilling rig, along with tungsten-carbide drill-bits and
+					other specialized tools, enable me to penetrate with precision the drill-resistant
+					barriers in burglary-resistant safes of the highest quality.
+				</div>
+			</div>
+			<div id="nav">
+				<img src="images/SAVTA.jpg" alt="Certified &amp; bonded by the Safe &amp; Vault Technicians Association" />
+				<a href="#overview">Overview</a>
+				<a href="#maintenance">Maintenance</a>
+				<a href="#cracking">Safecracking</a>
+				<a href="#repair">Repair</a>
+   			</div>
+			<div id=content>
+				<h2>Security Services</h2>
+		 		<div class="section" id=overview>
+					Does your safe or vault need maintenance? Do you need a good safecracker?
+					Has a burglar damaged your safe? If so, then I'm your man!
+					My name is Jeremy Reeder, and I open and repair all kinds of safes in southwest Idaho.
+				</div>
+				<div class="section">
+					<table id=row1>
+						<tbody>
+							<tr id=contact>
+								<p>
+									Out of medical necessity, I am on sabbatical. In my
+									absence, you would be well served to contact my
+									friend, Lance Mayhew:
+								</p>
+								<th>Contact:</th>
+								<th>
+									<div class="signature">Lance Mayhew</div>
+									<div class="certification">
+										<a href="http://en.wikipedia.org/wiki/Certified_Master_Safecracker">
+											Certified Master Safecracker
+										</a>
+									</div>
+								</th>
+							</tr>
+						</tbody>
+					</table>
+					<table id=row2>
+						<tbody>
+							<tr>
+								<td>
+									<table>
+										<tbody>
+											<tr>
+												<th>Location:</td>
+												<td>
+													<a href="http://www.adacountylockandsafe.com/">Ada County Lock &amp; Safe</a><br />
+													Caldwell, Idaho<br />
+													(Boise metropolitan area)<br />
+													United States of America
+												</td>
+											</tr>
+											<tr>
+												<th>Phone:</td>
+												<td>+1 208/602-6294</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+								<td><img src="images/cracker.jpg" /></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="section">
+					<h3 id=maintenance>Does your safe or vault need maintenance?</h3>
+					<p>
+						Well-maintained safes are easier to operate and more secure than their neglected counterparts.
+						By performing proper annual maintenance,
+						I can correct problems with your safe lock before they become severe.
+						Without this maintenance, the lock will, in fact, stop working.
+						This can have either of two undesirable results:
+						you can't open your safe, or your safe is left vulnerable to burglary.
+						This tends to defeat the purpose of having a safe.
+						If your safe or vault has any of these symptoms,
+						or if it's been a while since its last professional service, give me a call.
+					</p>
+				</div>
+				<div class="section">
+					<h3 id=cracking>Do you need a good safecracker?*</h3>
+					<p>
+						If you're locked out of your safe, I can help.
+						Perhaps you neglected the aforementioned maintenance, which you may not have realized was needed.
+						Or maybe, for whatever reason, the combination is simply not known.
+						Don't worry. I can open your safe.
+						As for the state of the safe afterward, it will be secure and functional, not broken.
+					</p>
+				</div>
+				<div class="section">
+					<h3 id=repair>Has a burglar damaged your safe?</h3>
+					<p>
+						Burglars tend to favor safecracking methods that involve brute force and large hammers.
+						They break off dials and handles, cut hinges, and in general smash things up.
+						Fortunately, these popular methods are largely unsuccessful.
+						(Safe manufacturers, after all, did think of these methods in their designs.)
+						If your safe has been the victim of such demolition, you may be left with no way to open the safe.
+						You'll be happy to know that I can open such a safe and can usually repair it.
+					</p>
+				</div>
+				<div class="footnote">
+					*I'll help you open your own safe, but of course I won't help you rob anyone.
+					I get asked to do that from time to time, but I'm really not interested.
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us">
+	<head>
+		<title>The Safe House&#8482; &#151; GeoCracker&#8482; &#151; Help:  How to use this geometric tool to crack safes</title>
+		<meta name="keywords" content="safe,cracking,vault,penetrate,lock,smith,geometry,help" />
+		<link rel="stylesheet" type="text/css" href="styles/geocracker_help_all.css" media="all" />
+	</head>
+	<body>
+ 		<div id=header>
+			<h1>
+				GeoCracker&#8482; &#151; Help
+			</h1>
+			<p>
+				by <a href="mailto:jeremy@thesafehouse.info">Jeremy Reeder, CJS</a>.
+			</p>
+		</div>
+ 		<div>
+			<ul>
+				<li>The functions of the safecracking geometer are as follows:
+					<ul>
+						<li>It converts coordinates between polar and Cartesian systems.
+							<ul>
+								<li>
+									The polar coordinate system used here is the safecrackers' standard,
+									where angles are measured clockwise from top dead center.
+								</li>
+							</ul>
+						</li>
+						<li>It converts length units between 'in' &amp; 'mm'</li>
+						<li>It converts angular units between dials of different graduations.</li>
+						<li>It accomodates crackers of indirect-drive safe locks by adding vectors: p1 + p2 = p3,
+							<ul>
+								<li>where p1 is the wheelpack center relative to the dial center,</li>
+								<li>p2 is a drill point relative to the wheelpack center,</li>
+								<li>&amp; p3 is the same point but measured relative to the dial center.</li>
+							</ul>
+						</li>
+						<li>It displays all data graphically, in actual size, in a style based partly on the HUD of a fighter jet.
+							For printing, the HUD background is automatically converted to white.
+							<ul>
+								<li>
+									The dial position is represented by green crosshairs.
+									<img id=dial src="images/crosshairs-dial.gif" />
+								</li>
+								<li>
+									The wheelpack position is represented by gray crosshairs.
+									<img id=wheelpack src="images/crosshairs-wheelpack.gif" />
+								</li>
+								<li>The drill point is represented by a gray dot.
+									<ul>
+										<li>
+											A green target square is positioned at the drill point based on p2.
+											<img id=target src="images/target.gif" />
+										</li>
+										<li>
+											A green aim diamond is positioned at the drill point based on p3
+											&amp; should be aligned with the target.
+											<img id=aim src="images/aim.gif" />
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>One application of the geometer is as follows, for an indirect drive lock:
+					<ol>
+						<li>Enter Cartesian coordinates (x, y) for wheelpack center (p1) in inches.</li>
+						<li>Switch to millimeters, automatically converting previously entered data.</li>
+						<li>Enter polar coordinates (angle x radius) for drill point (p2) in millimeters
+							<ul>
+								<li>(because this measurement happens to come from overseas).</li>
+							</ul>
+						</li>
+						<li>Switch back to inches, if that's what you prefer to use.</li>
+						<li>You now have your drill point, from dial center, in both polar &amp; Cartesian coordinates.
+							Take your pick.
+							<ul>
+								<li>The StrongArm Uni-Temp uses Cartesian coordinates.</li>
+								<li>For manual positioning, use polar coordinates if preferred.</li>
+								<li>The web page can also be printed and used as a template.</li>
+							</ul>
+						</li>
+					</ol>
+				</li>
+				<li>For a direct drive lock, simply leave the default coordinates for p1, as p2 is all that applies.</li>
+			<ul>
+		</div>
+	</body>
+</html>

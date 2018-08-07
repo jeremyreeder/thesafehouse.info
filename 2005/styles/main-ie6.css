@@ -1,0 +1,13 @@
+#images {
+	position: absolute;
+}
+#nav {
+	position: absolute;
+	top: 30px;
+}
+#nav img {
+	display: none;
+}
+.section table {
+	width: auto;
+}
