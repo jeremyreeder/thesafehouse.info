@@ -10,10 +10,10 @@ burglar damaged your safe? If so, then I'm your man! My name is Jeremy Reeder,
 and I open and repair all kinds of safes in southwest Idaho.
 
 ## Contact
-Jeremy Reeder, [Certified Master Safecracker][cms]
-The Safe House
-Meridian, Idaho, USA
-<jeremy@thesafehouse.info>
+- Jeremy Reeder, [Certified Master Safecracker][cms]
+- The Safe House
+- Meridian, Idaho, USA
+- <jeremy@thesafehouse.info>
 
 ![][portrait]
 *Jeremy Reeder, master safecracker*
