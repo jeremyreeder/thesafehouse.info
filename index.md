@@ -15,7 +15,7 @@ and I open and repair all kinds of safes in southwest Idaho.
 - Meridian, Idaho, USA
 - <jeremy@thesafehouse.info>
 
-![][portrait]
+![][portrait] ![][savta-logo] ![][lock-picks]
 *Jeremy Reeder, master safecracker*
 
 ## Does your safe or vault need maintenance?
@@ -48,5 +48,7 @@ open the safe. You'll be happy to know that I can open such a safe and can
 usually repair it.
 
 
-[cms]:      https://en.wikipedia.org/wiki/Certified_Master_Safecracker
-[portrait]: images/JeremyReeder.jpg
+[cms]:        https://en.wikipedia.org/wiki/Certified_Master_Safecracker
+[lock-picks]: images/jacknife-open.jpg
+[portrait]:   images/JeremyReeder.jpg
+[savta-logo]: images/SAVTA.jpg
