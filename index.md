@@ -14,11 +14,11 @@ and I open and repair all kinds of safes in southwest Idaho.
 - Meridian, Idaho, USA
 - <jeremy@thesafehouse.info>
 
-![Jeremy Reeder, master safecracker][portrait] ![A mastery of lock-manipulation
-skills enables me to open many locks and safes relatively quickly through
-non-invasive methods. But when necessary, I use a powerful safe-drilling rig,
-tungsten-carbide drill bits, and other specialized tools to penetrate
-drill-resistant barriers.][drill-rig]
+![A mastery of lock-manipulation skills enables me to open many locks and safes
+relatively quickly through non-invasive methods. But when necessary, I use a
+powerful safe-drilling rig, tungsten-carbide drill bits, and other specialized
+tools to penetrate drill-resistant barriers.][drill-rig] ![Jeremy Reeder,
+master safecracker][portrait]
 *Jeremy Reeder, master safecracker*
 
 # Does your safe or vault need maintenance?
