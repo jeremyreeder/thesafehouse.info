@@ -8,6 +8,8 @@ Does your safe or vault need maintenance? Do you need a good safecracker? Has a
 burglar damaged your safe? If so, then I'm your man! My name is Jeremy Reeder,
 and I open and repair all kinds of safes in southwest Idaho.
 
+![][logo]
+
 # Contact
 - Jeremy Reeder, [Certified Master Safecracker][cms]
 - The Safe House
@@ -58,5 +60,6 @@ usually repair it.
 [cms]:        https://en.wikipedia.org/wiki/Certified_Master_Safecracker
 [drill-rig]:  images/helixbullet.jpg
 [lock-picks]: images/jacknife-open.jpg
+[logo]:       images/cracker.jpg
 [portrait]:   images/JeremyReeder.jpg
 [savta-logo]: images/SAVTA.jpg
