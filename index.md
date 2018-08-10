@@ -8,7 +8,6 @@ Does your safe or vault need maintenance? Do you need a good safecracker? Has a
 burglar damaged your safe? If so, then I'm your man! My name is Jeremy Reeder,
 and I open and repair all kinds of safes in southwest Idaho.
 
-{#site-logo}
 ![The Safe House™][logo]
 
 - Jeremy Reeder, [Certified Master Safecracker][cms]
@@ -16,7 +15,7 @@ and I open and repair all kinds of safes in southwest Idaho.
 - Meridian, Idaho, USA
 - <jeremy@thesafehouse.info>
 
-<div class="gallery">
+<div class="gallery" markdown="1">
 ![A powerful safe-drilling rig, along with tungsten-carbide drill-bits and
 other specialized tools, enable me to penetrate with precision the
 drill-resistant barriers in burglary-resistant safes of the highest
