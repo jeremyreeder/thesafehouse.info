@@ -256,9 +256,12 @@ a {
   zoom:1;
 }
 
-// captions
+// images & captions
 p {
 	position: relative;
+}
+p img {
+	height: 20em;
 }
 p img + em {
 	position: absolute;
