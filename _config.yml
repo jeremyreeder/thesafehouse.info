@@ -27,7 +27,7 @@ show_downloads:   false # I link to the downloads within the README on GitHub in
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-menus
   #- jekyll-feed
