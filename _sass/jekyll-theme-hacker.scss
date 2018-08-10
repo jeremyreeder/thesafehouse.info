@@ -260,7 +260,10 @@ a {
 p {
 	position: relative;
 }
-p img {
+.gallery p {
+	white-space: nowrap;
+}
+.gallery p img {
 	max-height: 20em;
 	max-width: 30%;
 }
@@ -270,4 +273,9 @@ p img + em {
 	bottom: 0.4em;
 	background-color: black;
 	opacity: 0.6;
+}
+
+#site-logo {
+	height: auto;
+	width: 15em;
 }
