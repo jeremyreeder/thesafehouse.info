@@ -1,2 +1,2 @@
 # thesafehouse.info
-Static content for the website of The Safe House™
+Static content for website: [The Safe House™](https://www.thesafehouse.info)
