@@ -261,7 +261,7 @@ p {
 	position: relative;
 }
 p img {
-	height: 20em;
+	max-height: 20em;
 }
 p img + em {
 	position: absolute;
