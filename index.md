@@ -8,9 +8,9 @@ Does your safe or vault need maintenance? Do you need a good safecracker? Has a
 burglar damaged your safe? If so, then I'm your man! My name is Jeremy Reeder,
 and I open and repair all kinds of safes in southwest Idaho.
 
-![][logo]
+![SAVTA member #SR13104][savta-logo] 
+![The Safe House™][logo]
 
-# Contact
 - Jeremy Reeder, [Certified Master Safecracker][cms]
 - The Safe House
 - Meridian, Idaho, USA
@@ -52,9 +52,6 @@ manufacturers, after all, did think of these methods in their designs.) If your
 safe has been the victim of such demolition, you may be left with no way to
 open the safe. You'll be happy to know that I can open such a safe and can
 usually repair it.
-
-![SAVTA member #SR13104][savta-logo] 
-*A member of the Safe & Vault Technicians Association*
 
 
 [cms]:        https://en.wikipedia.org/wiki/Certified_Master_Safecracker
