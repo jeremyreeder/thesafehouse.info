@@ -68,7 +68,7 @@ world, see the [CipherSaber home-page][saber-home].
 [download-apps]:  download/tsh-software.zip
 [geocracker]:     geocracker.htm
 [geocracker-hud]: images/hud.jpg
-[saber-exec]:     download/cs2.exe
+[saber-exec]:     https://github.com/jeremyreeder/safehouse/releases/download/1.0/cs2.exe
 [saber-home]:     http://ciphersaber.gurus.org/
 [saber-source]:   download/cs2.c
 [suction-in-use]: images/suctionmountinuse.jpg
