@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tools for Safecracking & Security
+menus: header
+	title: Tools
 permalink: /tools.htm
 ---
 

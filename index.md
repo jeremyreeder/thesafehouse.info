@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Safe House™ — Jeremy Reeder, master safecracker
+menus: header
+	title: Home
 permalink: /
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Frequently Asked Questions about Safes & Safecracking
+menus: header
+	title: FAQ
 permalink: /faq.htm
 ---
 
