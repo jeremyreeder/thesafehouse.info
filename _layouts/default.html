@@ -25,15 +25,7 @@
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
-        <section class="menu">
-          <ul>
-            {% for item in site.menus.header %}
-              <li class="menu-item-{{ loop.index }}">
-                <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </section>
+		  {% include header-menu.html %}
       </div>
     </header>
 
