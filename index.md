@@ -60,5 +60,5 @@ usually repair it.
 [cms]:        https://en.wikipedia.org/wiki/Certified_Master_Safecracker
 [drill-rig]:  images/helixbullet.jpg
 [lock-picks]: images/jacknife-open.jpg
-[logo]:       images/cracker.jpg
+[logo]:       images/cracker.png
 [portrait]:   images/JeremyReeder.jpg
