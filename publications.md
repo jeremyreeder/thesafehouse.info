@@ -70,5 +70,5 @@ I've written numerous articles, some public and others of a more protected natur
 [gary-tl15]:    articles/Unlocking_a_Gary_TL-15_Round-door_Safe/index.htm
 [geometry]:     https://www.lulu.com/shop/jeremy-reeder/geometry-of-safecracking/hardcover/product-21408287.html
 [portrait]:     images/JeremyReeder.jpg
-[transferring]: articles/Transfer_Students/index.htm
+[transferring]: articles/Transfer_Students/
 [yamaha]:       articles/1996_Yamaha_Seca_II/index.htm

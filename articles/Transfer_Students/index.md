@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /articles/Transfer_Students/index.htm
+permalink: /articles/Transfer_Students/
 ---
 
 # Transfer Students: Learn Why and How to Transfer Mechanical Combinations
