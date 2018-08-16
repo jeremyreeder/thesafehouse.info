@@ -3,10 +3,10 @@ layout: default
 permalink: /articles/Transfer_Students/index.htm
 ---
 
-# Transfer Students
-## Learn Why and How to Transfer Mechanical Combinations
-### by Jeremy Reeder, Certified Journeyman Safecracker
-### Originally published in _Safe & Vault Technology_, Volume 24, Issue 4, May 2009
+# Transfer Students: Learn Why and How to Transfer Mechanical Combinations
+*By Jeremy Reeder, Certified Journeyman Safecracker. © 2009 [The Safe
+House][safehouse]. Originally published in _Safe & Vault Technology_, Volume
+24, Issue 4, May 2009.*
 
 When we safecrackers deal with mechanical combination locks, sometimes we
 determine a combination while dialing to one index and then transfer that
@@ -73,8 +73,8 @@ The procedure of determining a combination and transferring it to the fence is a
         3. Dial the combination to the fence index and see if it unlocks the lock.
         4. If the combination does not unlock the lock when dialed to the fence index, guess a new fence location and repeat steps 4.2 and 4.3.
 
-![Figure 1][fig1.jpg]
-![Figure 2][fig2.jpg]
+![Figure 1][figure-1]
+![Figure 2][figure-2]
 
 ### Offsetting — the mathematical approach
 Rather than transferring a combination from the drilled hole to the fence, some
@@ -93,6 +93,6 @@ simple mistake can waste a lot of time, so I favor the non-mathematical
 approach.
 
 
-[safehouse]: https://www.thesafehouse.info
+[safehouse]: {{ site.url }}
 [figure-1]:  fig1.jpg
 [figure-2]:  fig2.jpg
