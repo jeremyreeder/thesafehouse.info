@@ -5,7 +5,7 @@ permalink: /articles/Transfer_Students/index.htm
 
 # Transfer Students: Learn Why and How to Transfer Mechanical Combinations
 *By Jeremy Reeder, Certified Journeyman Safecracker. © 2009 [The Safe
-House][safehouse]. Originally published in _Safe & Vault Technology_, Volume
+House][safehouse]. Originally published in __Safe & Vault Technology__, Volume
 24, Issue 4, May 2009.*
 
 When we safecrackers deal with mechanical combination locks, sometimes we
