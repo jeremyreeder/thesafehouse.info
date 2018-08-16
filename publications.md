@@ -6,8 +6,10 @@ menus: header
 	title: Publications
 ---
 
+<div class="gallery" markdown="1">
 ![][portrait]
 *Jeremy Reeder, security aficionado*
+</div>
 
 I've written numerous articles, some public and others of a more protected nature, on security and on security penetration. The following are some of my published works:
 
