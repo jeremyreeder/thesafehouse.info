@@ -97,8 +97,10 @@ The procedure of determining a combination and transferring it to the fence is a
 
 	4. If the combination does not unlock the lock when dialed to the fence index, guess a new fence location and repeat steps 4.2 and 4.3.
 
+<div class="gallery" markdown="1">
 ![Figure 1][figure-1]
 ![Figure 2][figure-2]
+</div>
 
 ### Offsetting — the mathematical approach
 Rather than transferring a combination from the drilled hole to the fence, some
