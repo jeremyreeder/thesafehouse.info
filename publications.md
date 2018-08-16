@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Security Publications by Jeremy Reeder
+permalink: /publications.htm
 menus: header
 	title: Publications
-permalink: /publications.htm
 ---
 
 ![][portrait]

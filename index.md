@@ -1,9 +1,9 @@
 ---
 layout: default
 title: The Safe House™ — Jeremy Reeder, master safecracker
+permalink: /
 menus: header
 	title: Home
-permalink: /
 ---
 
 Does your safe or vault need maintenance? Do you need a good safecracker? Has a

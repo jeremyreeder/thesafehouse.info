@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tools for Safecracking & Security
+permalink: /tools.htm
 menus: header
 	title: Tools
-permalink: /tools.htm
 ---
 
 # Professional Security Penetration Tools
