@@ -1,9 +1,15 @@
 <section class="menu">
 	<ul>
 		<li>
-			<a href="{{ page.url }}" title="Go to Home Page">Home</a>
+			<a href="{{ '/' | relative_url }}" title="Go to Home Page">Home</a>
+		</li>
+		<li>
 			<a href="{{ '/tools' | relative_url }}" title="Go to Tools of the Trade">Tools of the Trade</a>
+		</li>
+		<li>
 			<a href="{{ '/publications' | relative_url }}" title="Go to Publications">Security Publications</a>
+		</li>
+		<li>
 			<a href="{{ '/faq' | relative_url }}" title="Go to F.A.Q.">Frequently Asked Questions</a>
 		</li>
 	</ul>
