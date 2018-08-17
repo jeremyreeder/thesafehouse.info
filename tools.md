@@ -3,7 +3,7 @@ layout: default
 title: Tools of the Trade
 ---
 
-# Professional Security Penetration Tools
+# Tools of the Trade
 With five hundred pounds of suction, this suction-mount holds safe-drilling
 rigs quite well to a wide variety of safes. It is designed for use with either
 of the following drill rigs: the Lockmasters Magnum Bullet or the StrongArm
