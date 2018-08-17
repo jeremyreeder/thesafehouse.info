@@ -13,4 +13,15 @@
 			<a href="{{ '/faq' | relative_url }}" title="Go to F.A.Q.">Frequently Asked Questions</a>
 		</li>
 	</ul>
+	<script>
+		var menuIterator = document.evaluate('//section[@class="menu"]//a', document)
+		try {
+			var menuEntry = menuIterator.iterateNext()
+			while (menuEntry)
+				if (menuEntry.href == '{{ page.url }}')
+					menuEntry.parentNode.style = 'display: none'
+		} catch (e) {
+			// Old browsers which don't support the new DOM hotness will fail to remove the current page from the menu, but that's okay.
+		}
+	</script>
 </section>
