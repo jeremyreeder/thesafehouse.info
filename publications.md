@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Security Publications by Jeremy Reeder
-menus: header
-	title: Publications
 ---
 
 <div class="gallery" markdown="1">

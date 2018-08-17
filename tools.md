@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Tools for Safecracking & Security
-menus: header
-	title: Tools
+title: Tools of the Trade
 ---
 
 # Professional Security Penetration Tools

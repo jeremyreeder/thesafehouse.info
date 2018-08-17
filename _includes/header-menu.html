@@ -1,9 +1,10 @@
 <section class="menu">
 	<ul>
-		{% for item in site.menus.header %}
-			<li class="menu-item-{{ loop.index }}">
-				<a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
-			</li>
-		{% endfor %}
+		<li>
+			<a href="{{ page.path }}" title="Go to Home Page">Home</a>
+			<a href="{{ '/tools' | relative_url }}" title="Go to Tools of the Trade">Tools of the Trade</a>
+			<a href="{{ '/publications' | relative_url }}" title="Go to Publications">Security Publications</a>
+			<a href="{{ '/faq' | relative_url }}" title="Go to F.A.Q.">Frequently Asked Questions</a>
+		</li>
 	</ul>
 </section>
