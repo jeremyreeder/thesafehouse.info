@@ -62,11 +62,17 @@ In the interest of promoting the availability of encryption technology world-wid
 To learn more about the CipherSaber algorithm and how you can help save the
 world, see the [CipherSaber home-page][saber-home].
 
+<div class="gallery" markdown="1">
+![CipherKnight certificate][saber-cert]
+*"I dub thee Sir Reeder, CipherKnight." —Tommy Jefferson & Arnie Reinhold ;)*
+</div>
+
 
 [combogenerator]: combo_generator.htm
 [download-apps]:  download/tsh-software.zip
 [geocracker]:     geocracker.htm
 [geocracker-hud]: images/hud.jpg
+[saber-cert]:     images/cknight.gif
 [saber-exec]:     https://github.com/jeremyreeder/safehouse/releases/download/1.0/cs2.exe
 [saber-home]:     http://ciphersaber.gurus.org/
 [saber-source]:   download/cs2.c
