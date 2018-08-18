@@ -9,14 +9,11 @@ rigs quite well to a wide variety of safes. It is designed for use with either
 of the following drill rigs: the Lockmasters Magnum Bullet or the StrongArm
 Mini-Rig.
 
+<div class="gallery" markdown="1">
 ![][suction-mount]
-*Suction mount*
-
 ![][suction-in-use]
 *Suction mount in use with Magnum Bullet II*
-
-![][geocracker-hud]
-*GeoCracker™ representation of an indirect-drive vault lock*
+</div>
 
 I made this tool myself by adapting a big bad hand-pumped suction device. I do
 not manufacture this tool for sale. If you're a professional safe technician in
@@ -36,6 +33,11 @@ them online or, alternatively, download the .ZIP archive for off-line use.
   vector addition and coordinate conversion, useful for calculating
   drill-points on safe and vault locks)
 - [Download ComboGenerator™ & GeoCracker™ for offline use][download-apps]
+
+<div class="gallery" markdown="1">
+![][geocracker-hud]
+*GeoCracker™ representation of an indirect-drive vault lock*
+</div>
 
 # Free Cryptographic Software
 If you're in need of strong encryption software that is fast and free, then
