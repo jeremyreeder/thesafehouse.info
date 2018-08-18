@@ -64,7 +64,7 @@ world, see the [CipherSaber home-page][saber-home].
 
 <div class="gallery" markdown="1">
 ![CipherKnight certificate][saber-cert]
-*"I dub thee Sir Reeder, CipherKnight." —Tommy Jefferson & Arnie Reinhold ;)*
+*Jeremy Reeder, certified CipherKnight*
 </div>
 
 
