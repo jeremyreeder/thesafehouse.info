@@ -64,7 +64,7 @@ world, see the [CipherSaber home-page][saber-home].
 
 <div class="gallery" markdown="1">
 ![CipherKnight certificate][saber-cert]
-*Jeremy Reeder, certified CipherKnight*
+*Sir Jeremy Reeder, CipherKnight*
 </div>
 
 
