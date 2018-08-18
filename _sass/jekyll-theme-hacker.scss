@@ -285,3 +285,8 @@ p img + em {
 .menu li {
 	display: inline;
 }
+
+.menu li ::before {
+    content: '→';
+    color: white;
+}
