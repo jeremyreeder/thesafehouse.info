@@ -5,7 +5,7 @@ permalink: /articles/Unlocking_a_Gary_TL-15_Round-door_Safe/
 
 # Unlocking a Gary TL-15 Round-door Safe
 ## Taking a dialectic approach to safe opening
-*By Jeremy Reeder, Certified Journeyman Safecracker. © 2007 [The Safe
+*By Jeremy Reeder, Certified Journeyman Safecracker. (C) 2007 [The Safe
 House][safehouse]. Originally published in __Safe & Vault Technology__, Volume
 22, Issue 5, September 2007.*
 
