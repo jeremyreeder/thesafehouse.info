@@ -26,6 +26,7 @@ url: "https://www.thesafehouse.info" # the base hostname & protocol for your sit
 show_downloads:   false # I link to the downloads within the README on GitHub instead
 
 # Build settings
+encoding: UTF-8
 markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
