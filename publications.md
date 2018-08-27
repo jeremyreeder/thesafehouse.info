@@ -65,7 +65,7 @@ I've written numerous articles, some public and others of a more protected natur
 
 
 [garage]:       articles/Is_Your_Garage_Secure/index.htm
-[gary-tl15]:    articles/Unlocking_a_Gary_TL-15_Round-door_Safe/index.htm
+[gary-tl15]:    articles/Unlocking_a_Gary_TL-15_Round-door_Safe/
 [geometry]:     https://www.lulu.com/shop/jeremy-reeder/geometry-of-safecracking/hardcover/product-21408287.html
 [portrait]:     images/JeremyReeder.jpg
 [transferring]: articles/Transfer_Students/
