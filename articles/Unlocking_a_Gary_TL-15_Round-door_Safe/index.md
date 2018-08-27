@@ -62,7 +62,7 @@ plenty of space around the wheelpack, since the door itself is the lock case.
 If the lock case were like that of the 6730, the most space would be found
 toward the lock bolt (most likely to the left, I supposed), while sufficient
 space would likely be found in the corners farthest from the bolt.  Based on
-all this, I chose a target that seemed to have the most potential  —one that
+all this, I chose a target that seemed to have the most potential  - one that
 I believed would work for various possible configurations.  Eight ball, lower
 left corner pocket!
 
