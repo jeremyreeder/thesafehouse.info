@@ -45,11 +45,11 @@ direct-drive, its wheels are on the same axis as the dial. (If it were
 indirect-drive, however, the wheelpack location would be difficult to predict.
 I would search for more information before attempting an opening by frontal
 penetration.)  The wheels of most safe locks have about a 7/8" radius, and none
-that I'm aware of are over 1¼".  It seems common for small round-door safes
+that I'm aware of are over 1+1/4".  It seems common for small round-door safes
 to be rather burglar-resistant, based on which I estimated that the lock was
-mounted 2" to 2½" behind the face of the door.  This measurement might be
+mounted 2" to 2+1/2" behind the face of the door.  This measurement might be
 considered to have been pulled from my wazoo.  The radius of the dial is
-1½".
+1+1/2".
 
 I planned to use the aforementioned measurements to get a view of the
 wheelpack, somewhere near its circumference.  I needed no access to the fence,
