@@ -3,7 +3,8 @@ layout: default
 permalink: /articles/Transfer_Students/
 ---
 
-# Transfer Students: Learn Why and How to Transfer Mechanical Combinations
+# Transfer Students
+## Learn Why and How to Transfer Mechanical Combinations
 *By Jeremy Reeder, Certified Journeyman Safecracker. © 2009 [The Safe
 House][safehouse]. Originally published in __Safe & Vault Technology__, Volume
 24, Issue 4, May 2009.*
