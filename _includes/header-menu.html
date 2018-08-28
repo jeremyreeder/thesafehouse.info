@@ -14,14 +14,16 @@
 		</li>
 	</ul>
 </section>
-<!--<script>
-	var menuIterator = document.evaluate('//section[@class="menu"]//a', document)
-	try {
-		var menuEntry = menuIterator.iterateNext()
-		while (menuEntry)
-			if (menuEntry.href == '{{ page.url }}')
-				menuEntry.parentNode.style = 'display: none'
-	} catch (e) {
-		// Old browsers which don't support the new DOM hotness will fail to remove the current page from the menu, but that's okay.
+<script>
+	window.onload = function() {
+		var menuIterator = document.evaluate('//section[@class="menu"]//a', document)
+		try {
+			// hide any menu items that refer to the current URL
+			while (menuEntry = menuIterator.iterateNext())
+				if (menuEntry.href == '{{ page.url }}')
+					menuEntry.parentNode.style = 'display: none'
+		} catch (e) {
+			// ignore errors from old browsers that can't handle this DOM hotness
+		}
 	}
-</script>-->
+</script>
