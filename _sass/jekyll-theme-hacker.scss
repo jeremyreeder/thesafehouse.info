@@ -263,6 +263,12 @@ p {
 .gallery p {
 	white-space: nowrap;
 }
+img.zoom {
+	position: fixed;
+	left: 5%;
+	max-width: 90%;
+	height: auto;
+}
 .gallery p img {
 	max-height: 20em;
 	max-width: 30%;
