@@ -15,7 +15,7 @@
 	</ul>
 </section>
 <script>
-	window.onload = function() {
+	function removeThisPageFromMenu() {
 		var menuIterator = document.evaluate('//section[@class="menu"]//a', document)
 		try {
 			// hide any menu items that refer to the current URL
@@ -26,4 +26,5 @@
 			// ignore errors from old browsers that can't handle this DOM hotness
 		}
 	}
+	setTimeout(removeThisPageFromMenu, 0)
 </script>
