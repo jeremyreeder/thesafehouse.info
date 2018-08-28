@@ -21,6 +21,7 @@ need of such a tool, you can either make their own or buy the StrongArm
 Mini-Vac, which is similar.
 
 # Free Safe-lock Software
+{: #software}
 Safe and vault work can be aided greatly by the use of appropriate software.
 The Safe House™ provides two free web-applications for use by professional
 safecrackers and safe-technicians. If you have a strong knowledge of safe and

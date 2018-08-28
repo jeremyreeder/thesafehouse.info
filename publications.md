@@ -87,5 +87,6 @@ published works:
 [portrait]:     images/JeremyReeder.jpg
 [saber-home]:   http://ciphersaber.gurus.org/
 [saber-source]: download/cs2.c
+[tools]:        tools#software
 [transferring]: articles/Transfer_Students/
 [yamaha]:       articles/1996_Yamaha_Seca_II/index.htm
