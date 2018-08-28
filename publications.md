@@ -8,10 +8,26 @@ title: Security Publications by Jeremy Reeder
 *Jeremy Reeder, security aficionado*
 </div>
 
-I've written numerous articles, some public and others of a more protected nature, on security and on security penetration. The following are some of my published works:
+I've written numerous articles, some public and others of a more protected
+nature, on security and on security penetration. The following are some of my
+published works:
 
 # Books
 - _[Geometry of Safecracking][geometry]_, 2014.
+
+# Software
+- [GridScout™][gridscout] — a map-search tool for community-defense planners,
+  bridging the gap between paper maps and Internet hotness. 2018.
+
+- [CS2][saber-source] — an implementation in C of Arnold Reinhold's
+  [CipherSaber™][saber-home] series of encryption algorithms. 2009.
+
+- [GeoCracker™][tools] — a calculator for vector addition and coordinate
+  conversion, useful for calculating drill-points on safe and vault locks.
+  2007.
+
+- [ComboGenerator™][tools] — a generator of pseudo-random combinations suitable
+  for use with a combination lock. 2004.
 
 # Magazine Articles
 - "[Unlocking a Gary TL-15 Round-door Safe][gary-tl15]: Taking a dialectic
@@ -67,6 +83,9 @@ I've written numerous articles, some public and others of a more protected natur
 [garage]:       articles/Is_Your_Garage_Secure/index.htm
 [gary-tl15]:    articles/Unlocking_a_Gary_TL-15_Round-door_Safe/
 [geometry]:     https://www.lulu.com/shop/jeremy-reeder/geometry-of-safecracking/hardcover/product-21408287.html
+[gridscout]:    https://www.gridscout.net/
 [portrait]:     images/JeremyReeder.jpg
+[saber-home]:   http://ciphersaber.gurus.org/
+[saber-source]: download/cs2.c
 [transferring]: articles/Transfer_Students/
 [yamaha]:       articles/1996_Yamaha_Seca_II/index.htm
