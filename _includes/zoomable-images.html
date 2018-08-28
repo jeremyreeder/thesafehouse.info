@@ -1,11 +1,12 @@
 <script>
-	function toggleZoom(image) {
-		image.classList.toggle('zoomed')
+	function zoom(e) {
+		image = e.target
+		document.location = image.src
 	}
 	function makeImagesZoomable(
 		var imageIterator = document.evaluate('//img', document)
 		while (image = imageIterator.iterateNext())
-			image.onclick = toggleZoom
+			image.onclick = zoom
 	}
 	window.onload(makeImagesZoomable)
 </script>
