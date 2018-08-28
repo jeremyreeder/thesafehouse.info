@@ -20,7 +20,7 @@
 		try {
 			// hide any menu items that refer to the current URL
 			while (menuEntry = menuIterator.iterateNext())
-				if (menuEntry.href == '{{ page.url }}')
+				if (menuEntry.href == '{{ page.url | relative_url }}')
 					menuEntry.parentNode.style = 'display: none'
 		} catch (e) {
 			// ignore errors from old browsers that can't handle this DOM hotness
