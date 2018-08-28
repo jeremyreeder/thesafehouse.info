@@ -4,7 +4,7 @@
 		document.location = image.src
 	}
 	function makeImagesZoomable(
-		var imageIterator = document.evaluate('//img', document)
+		imageIterator = document.evaluate('//img', document)
 		while (image = imageIterator.iterateNext())
 			image.onclick = zoom
 	}
