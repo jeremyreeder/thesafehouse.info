@@ -134,8 +134,8 @@ than a hanger though.  The rods used to fasten chain-link fencing to fence-post
 work well for this purpose.
 
 #### Solution
-As for preventing unauthorized access to an authorized remote (vulnerability
-#1), this can be achieved by having key-chain remotes instead of visor-mounted
+As for preventing unauthorized access to an authorized remote (vulnerability #1),
+this can be achieved by having key-chain remotes instead of visor-mounted
 remotes.  If you wouldn't leave keys lying around visible inside your car, then
 you shouldn't leave a plainly-visible garage-door remote on your car's visor
 either.  You can easily carry a key-chain remote with you and keep it in your
