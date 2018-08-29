@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /articles/Transfer_Students/
+permalink: /articles/1996_Yamaha_Seca_II/
 ---
 
 # 1996 Yamaha Seca II
