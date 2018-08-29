@@ -166,8 +166,8 @@ counter-sunk and the screws were replaced with flush-head screws.  Then the
 second door-mounted barrier was installed as seen in figure 10.
 
 <div class="gallery" markdown="1">
-![Installation of wall-mounted security barrier (1/16" × 3/4" × 8" angle-aluminum)][figure-8]
-![Left door-mounted security-barrier installed (1/16" × 1" × 8" angle-aluminum)][figure-9]
+![Installation of wall-mounted security barrier (1/16" x 3/4" x 8" angle-aluminum)][figure-8]
+![Left door-mounted security-barrier installed (1/16" x 1" x 8" angle-aluminum)][figure-9]
 ![Completed installation of aluminum security barriers][figure-10]
 *Figures 8 thru 10*
 </div>
