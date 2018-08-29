@@ -1,0 +1,12 @@
+<script>
+	// Most modern desktop browsers display an image's "title" attribute as a
+	// tooltip. I want that, but Kramdown deals better with the "alt" attribute.
+	function convertImageAltTextToTitles() {
+		var imageIterator = document.evaluate('//*[@class="gallery"]//img[@alt][not(@title)]', document)
+		while (image = imageIterator.iterateNext()) {
+			image.title = image.alt
+			image.removeAttribute('alt')
+		}
+	}
+	window.addEventListener('load', convertImageAltTextToTitles)
+</script>
