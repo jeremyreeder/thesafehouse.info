@@ -51,8 +51,8 @@ my published works:
 - "Ace in the Hole: Discover Tips on Safecracking through the Change-key Hole",
   _Safe & Vault Technology_, Volume 24, Issue 6, July 2009.
 
-- "Is Your Garage Secure?: It may be insecure by design, but you can fix
-  that!", _Keynotes_, Volume 55, Issue 7, July 2009.
+- "[Is Your Garage Secure?][garage]: It may be insecure by design, but you can
+  fix that!", _Keynotes_, Volume 55, Issue 7, July 2009.
 
 - "Overcoming an ATM (Opening a Mas-Hamilton Cencon lock on an NCR 5886 ATM
   leads to on-the-job lessons)", _Safe & Vault Technology_, Volume 24, Issue 7,
@@ -81,7 +81,7 @@ my published works:
 - "How to Securely Install a Dead-bolt", _Security Sentinel_, February 2012.
 
 
-[garage]:       articles/Is_Your_Garage_Secure/index.htm
+[garage]:       articles/Is_Your_Garage_Secure/
 [gary-tl15]:    articles/Unlocking_a_Gary_TL-15_Round-door_Safe/
 [geometry]:     https://www.lulu.com/shop/jeremy-reeder/geometry-of-safecracking/hardcover/product-21408287.html
 [gridscout]:    https://www.gridscout.net/
