@@ -9,9 +9,9 @@ title: Security Publications by Jeremy Reeder
 </div>
 
 I've written numerous articles, some public and others of a more protected
-nature, on security and on security penetration. I've also produced open-source
-software related to these same topics. The following are some of my published
-works:
+nature, on security and on security penetration. I've also produced some
+open-source software related to these same topics. The following are a few of
+my published works:
 
 # Books
 - _[Geometry of Safecracking][geometry]_, 2014.
