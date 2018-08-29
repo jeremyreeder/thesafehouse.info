@@ -5,7 +5,7 @@ permalink: /articles/Is_Your_Garage_Secure/
 
 # Is Your Garage Secure?
 ## It may be insecure by design, but you can fix that!
-*By Jeremy Reeder, Certified Professional Locksmith. © 2009 [The Safe
+*By Jeremy Reeder, Certified Professional Locksmith. (C) 2009 [The Safe
 House][safehouse]. Originally published in __Keynotes__, Volume 55, Issue 7,
 July 2009.*
 
