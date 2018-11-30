@@ -64,5 +64,8 @@ custom pick-up wiring. I'm better at the wiring than I am at the playing. But
 anyway, here's some instrumental music for your enjoyment: [The Star-Spangled
 Banner (MP3)][anthem]
 
+I'm also a [community defense enthusiast][defender].
 
-[anthem]: download/StarSpangledBanner1.mp3
+
+[anthem]:   download/StarSpangledBanner1.mp3
+[defender]: https://www.gridscout.net/#jeremy
