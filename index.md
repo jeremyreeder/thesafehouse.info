@@ -11,7 +11,7 @@ you, I'm probably unavailable. ;)
 - Jeremy Reeder, [Certified Master Safecracker][cms]
 - The Safe House
 - Meridian, Idaho, USA
-- <jeremy@thesafehouse.info>
+- <jeremy@thesafehouse.info> — [encryption key][email-key]
 
 <div class="gallery" markdown="1">
 ![A powerful safe-drilling rig, along with tungsten-carbide drill-bits and
@@ -55,6 +55,7 @@ usually repair it.
 
 
 [cms]:        https://en.wikipedia.org/wiki/Certified_Master_Safecracker
+[email-key]:  download/publickey.jeremy@thesafehouse.info.asc
 [drill-rig]:  images/helixbullet.jpg
 [lock-picks]: images/jacknife-open.jpg
 [logo]:       images/cracker.png
