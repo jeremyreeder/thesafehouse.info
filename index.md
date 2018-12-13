@@ -13,6 +13,10 @@ you, I'm probably unavailable. ;)
 - Meridian, Idaho, USA
 - <jeremy@thesafehouse.info> — [OpenPGP public key][email-key]
 
+In my absence, you can't go wrong by calling Lance Mayhew of [Ada County Lock &
+Safe][mayhew].
+{:.tangent}
+
 <div class="gallery" markdown="1">
 ![A powerful safe-drilling rig, along with tungsten-carbide drill-bits and
 other specialized tools, enable me to penetrate with precision the
@@ -59,4 +63,5 @@ usually repair it.
 [drill-rig]:  images/helixbullet.jpg
 [lock-picks]: images/jacknife-open.jpg
 [logo]:       images/cracker.png
+[mayhew]:     https://www.adacountylockandsafe.com
 [portrait]:   images/JeremyReeder.jpg
