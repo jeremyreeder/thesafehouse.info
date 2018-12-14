@@ -57,11 +57,21 @@ safe has been the victim of such demolition, you may be left with no way to
 open the safe. You'll be happy to know that I can open such a safe and can
 usually repair it.
 
+# Legal notice
+Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
+licensed under [Creative Commons BY 3.0][icon-license].
 
-[cms]:        https://en.wikipedia.org/wiki/Certified_Master_Safecracker
-[email-key]:  download/publickey.jeremy@thesafehouse.info.asc
-[drill-rig]:  images/helixbullet.jpg
-[lock-picks]: images/jacknife-open.jpg
-[logo]:       images/cracker.png
-[mayhew]:     https://www.adacountylockandsafe.com
-[portrait]:   images/JeremyReeder.jpg
+All other content © 2018 Jeremy Reeder. Use and distribution are subject to the
+terms of the [MIT License][mit-license].
+
+
+[cms]:         https://en.wikipedia.org/wiki/Certified_Master_Safecracker
+[email-key]:   download/publickey.jeremy@thesafehouse.info.asc
+[drill-rig]:   images/helixbullet.jpg
+[freepik]:     https://www.freepik.com
+[flaticon]:    https://www.flaticon.com
+[lock-picks]:  images/jacknife-open.jpg
+[logo]:        images/cracker.png
+[mayhew]:      https://www.adacountylockandsafe.com
+[mit-license]: https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
+[portrait]:    images/JeremyReeder.jpg
