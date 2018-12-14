@@ -17,7 +17,7 @@ Mini-Rig.
 
 I made this tool myself by adapting a big bad hand-pumped suction device. I do
 not manufacture this tool for sale. If you're a professional safe technician in
-need of such a tool, you can either make their own or buy the StrongArm
+need of such a tool, you can either make your own or buy the StrongArm
 Mini-Vac, which is similar.
 
 # Free Safe-lock Software
