@@ -58,20 +58,20 @@ open the safe. You'll be happy to know that I can open such a safe and can
 usually repair it.
 
 # Legal notice
-Site icon, made by [Freepik][freepik] from [flaticon.com][flaticon], is
-licensed under [Creative Commons BY 3.0][icon-license].
+Site icon depicting a house and padlock, made by [Freepik][freepik] from
+[flaticon.com][flaticon], is licensed under [Creative Commons BY
+3.0][icon-license].
 
-All other content © 2018 Jeremy Reeder. Use and distribution are subject to the
-terms of the [MIT License][mit-license].
+All other content © 2004-2018 The Safe House™.
 
 
-[cms]:         https://en.wikipedia.org/wiki/Certified_Master_Safecracker
-[email-key]:   download/publickey.jeremy@thesafehouse.info.asc
-[drill-rig]:   images/helixbullet.jpg
-[freepik]:     https://www.freepik.com
-[flaticon]:    https://www.flaticon.com
-[lock-picks]:  images/jacknife-open.jpg
-[logo]:        images/cracker.png
-[mayhew]:      https://www.adacountylockandsafe.com
-[mit-license]: https://github.com/jeremyreeder/gridscout/blob/master/LICENSE.md
-[portrait]:    images/JeremyReeder.jpg
+[cms]:          https://en.wikipedia.org/wiki/Certified_Master_Safecracker
+[email-key]:    download/publickey.jeremy@thesafehouse.info.asc
+[drill-rig]:    images/helixbullet.jpg
+[freepik]:      https://www.freepik.com
+[flaticon]:     https://www.flaticon.com
+[icon-license]: http://creativecommons.org/licenses/by/3.0
+[lock-picks]:   images/jacknife-open.jpg
+[logo]:         images/cracker.png
+[mayhew]:       https://www.adacountylockandsafe.com
+[portrait]:     images/JeremyReeder.jpg
