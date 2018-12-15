@@ -66,10 +66,10 @@ Sometimes I play a sweet electric guitar with cool custom pick-up wiring.  I'm
 better at the wiring than I am at the playing. But anyway, here's some
 instrumental music for your enjoyment: [The Star-Spangled Banner (MP3)][anthem]
 
-I'm also a [community defense enthusiast][defender].
+I'm also a [community defense enthusiast][gridscout].
 
 
 [anthem]:     download/StarSpangledBanner1.mp3
-[defender]:   https://www.gridscout.net/#jeremy
+[gridscout]:  https://www.gridscout.net
 [sexy-bike]:  https://www.motorcyclespecs.co.za/model/mv/mv_agusta_f4_750%20senna.htm
 [tasty-grub]: http://cookingdanish.com
