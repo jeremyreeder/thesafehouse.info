@@ -60,10 +60,11 @@ discuss your security needs with you.
 ## What do you do when you're not cracking safes?
 Well, I wish I were riding a [sexy Italian sport-bike][sexy-bike], but I'm
 between motorcycles at the moment. Meanwhile, I cook [tasty Danish
-grub][tasty-grub].  And sometimes I play a sweet electric guitar with cool
-custom pick-up wiring.  I'm better at the wiring than I am at the playing. But
-anyway, here's some instrumental music for your enjoyment: [The Star-Spangled
-Banner (MP3)][anthem]
+grub][tasty-grub].
+
+Sometimes I play a sweet electric guitar with cool custom pick-up wiring.  I'm
+better at the wiring than I am at the playing. But anyway, here's some
+instrumental music for your enjoyment: [The Star-Spangled Banner (MP3)][anthem]
 
 I'm also a [community defense enthusiast][defender].
 
