@@ -58,14 +58,18 @@ one-size-fits-all security solution. Just give me a call, and I'll be glad to
 discuss your security needs with you.
 
 ## What do you do when you're not cracking safes?
-Well, I wish I were riding a sexy Italian sport-bike, but I'm between
-motorcycles at the moment. Meanwhile, I play a sweet electric guitar with cool
-custom pick-up wiring. I'm better at the wiring than I am at the playing. But
-anyway, here's some instrumental music for your enjoyment: [The Star-Spangled
-Banner (MP3)][anthem]
+Well, I wish I were riding a [sexy Italian sport-bike][sexy-bike], but I'm
+between motorcycles at the moment. Meanwhile, I cook [tasty Danish
+grub][tasty-grub].
 
-I'm also a [community defense enthusiast][defender].
+Sometimes I play a sweet electric guitar with cool custom pick-up wiring.  I'm
+better at the wiring than I am at the playing. But anyway, here's some
+instrumental music for your enjoyment: [The Star-Spangled Banner (MP3)][anthem]
+
+I'm also a [community defense enthusiast][gridscout].
 
 
-[anthem]:   download/StarSpangledBanner1.mp3
-[defender]: https://www.gridscout.net/#jeremy
+[anthem]:     download/StarSpangledBanner1.mp3
+[gridscout]:  https://www.gridscout.net
+[sexy-bike]:  https://www.motorcyclespecs.co.za/model/mv/mv_agusta_f4_750%20senna.htm
+[tasty-grub]: http://cookingdanish.com
