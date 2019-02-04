@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: thesafehouse.info
+Token: 17819e6d5387dbfb4cccf0d3547b2e83090afc13d9b7fc5e478164b3cbd668b0
