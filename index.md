@@ -3,18 +3,15 @@ layout: default
 title: The Safe House™ — Jeremy Reeder, master safecracker
 ---
 
-Does your safe or vault need maintenance? Do you need a good safecracker? Has a
-burglar damaged your safe? If so, then I'm your man! My name is Jeremy Reeder,
-and I open and repair all kinds of safes in southwest Idaho. Unfortunately for
-you, I'm probably unavailable. ;)
 
-- Jeremy Reeder, [Certified Master Safecracker][cms]
+- Jeremy Reeder, retired [master safecracker][cms]
 - The Safe House
 - Meridian, Idaho, USA
 - <jeremy@thesafehouse.info> — [OpenPGP public key][email-key]
 
-In my absence, you can't go wrong by calling Lance Mayhew of [Ada County Lock &
-Safe][mayhew].
+Do you need a good safecracker or a vault repairman? I'm retired, but in my
+absence you can't go wrong with Lance Mayhew of [Ada County Lock &
+Safe][mayhew]. Give him a call.
 {:.tangent}
 
 <div class="gallery" markdown="1">
@@ -23,8 +20,8 @@ other specialized tools, enable me to penetrate with precision the
 drill-resistant barriers in burglary-resistant safes of the highest
 quality.][drill-rig]
 ![Jeremy Reeder, master safecracker][portrait]
-![A mastery of lock-manipulation skills enables me to open many locks and safes
-relatively quickly through non-invasive methods.][lock-picks]
+![Mastery of lock-manipulation skills enables makes it possible to open many
+locks and safes relatively quickly through non-invasive methods.][lock-picks]
 *Jeremy Reeder, master safecracker*
 </div>
 
@@ -36,17 +33,18 @@ maintenance, the lock will, in fact, stop working. This can have either of two
 undesirable results: you can't open your safe, or your safe is left vulnerable
 to burglary. This tends to defeat the purpose of having a safe. If your safe or
 vault has any of these symptoms, or if it's been a while since its last
-professional service, give me a call.
+professional service, then it's time to call a professional.
 
 # Do you need a good safecracker?
-If you're locked out of your safe, I can help. Perhaps you neglected the
-aforementioned maintenance, which you may not have realized was needed. Or
-maybe, for whatever reason, the combination is simply not known. Don't worry. I
-can open your safe. As for the state of the safe afterward, it will be secure
-and functional, not broken.
+If you're locked out of your safe, a good professional safecracker can help.
+Perhaps you neglected the aforementioned maintenance, which you may not have
+realized was needed. Or maybe, for whatever reason, the combination is simply
+not known. Don't worry. With the right skills and tools and time, a good
+safeman can open your safe while leaving it securely functional, not broken.
 
-I'll help you open your own safe, but of course I won't help you rob anyone. I
-get asked to do that from time to time, but I'm really not interested.
+A legitimate safecracker may be able to help you open your own safe but of
+course won't help you rob anyone, so quit asking. We get asked to do that from
+time to time, but we're really not interested.
 
 # Has a burglar damaged your safe?
 Burglars tend to favor safecracking methods that involve brute force and large
@@ -54,8 +52,8 @@ hammers. They break off dials and handles, cut hinges, and in general smash
 things up. Fortunately, these popular methods are largely unsuccessful. (Safe
 manufacturers, after all, did think of these methods in their designs.) If your
 safe has been the victim of such demolition, you may be left with no way to
-open the safe. You'll be happy to know that I can open such a safe and can
-usually repair it.
+open the safe. You'll be happy to know that we can open such safes and can
+usually repair them.
 
 # Legal notice
 Site icon depicting a house and padlock, made by [Freepik][freepik] from
