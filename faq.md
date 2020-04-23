@@ -47,22 +47,18 @@ safecracker needs a mastery of various techniques. Don't worry. I'll get it
 open.
 
 ## How much do you charge?
-As of March 2014, my service rates are as follows:
-- Travel is billed at a rate of two dollars per mile, with an eighty-dollar minimum. This is calculated based on the total round-trip distance from and back to The Safe House headquarters in Meridian, Idaho.
-- Labor is charged at a rate of two hundred and twenty dollars per hour, with a two-hour minimum for safe openings and a half-hour minimum for all other services. Payment must be in cash or as a check at the time of service, unless otherwise arranged in advance.
-- Additional charges will apply for any parts required, but these charges are usually minimal except in cases of major malfunction. There is no charge for the tungsten-carbide-tipped or diamond-tipped drill-bits or other expendable materials that may be used up in the process of breaching a safe.
+I retired in February of 2020. Before that I charged $220 per hour with a
+half-hour minimum, plus $80 per trip up to 20 miles away, plus $4 per
+additional mile. Plus the cost of any necessary parts, but those were
+usually minimal except in cases of major malfunction.
 
 The price for a safe or lock varies with the level of security and other
-features. I sell good security products at fair prices, but there's no
-one-size-fits-all security solution. Just give me a call, and I'll be glad to
-discuss your security needs with you.
+features.
 
 ## What do you do when you're not cracking safes?
-Well, I wish I were riding a [sexy Italian sport-bike][sexy-bike], but I'm
-between motorcycles at the moment. Meanwhile, I cook [tasty Danish
-grub][tasty-grub].
+I ride [sexy Italian sportbikes][sexy-bike] and cook tasty [exotic grub][tasty-grub].
 
-Sometimes I play a sweet electric guitar with cool custom pick-up wiring.  I'm
+Sometimes I play a sweet electric guitar with cool custom pick-up wiring. I'm
 better at the wiring than I am at the playing. But anyway, here's some
 instrumental music for your enjoyment: [The Star-Spangled Banner (MP3)][anthem]
 
