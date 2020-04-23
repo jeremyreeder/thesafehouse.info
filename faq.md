@@ -50,10 +50,12 @@ open.
 I retired in February of 2020. Before that I charged $220 per hour with a
 half-hour minimum, plus $80 per trip up to 20 miles away, plus $4 per
 additional mile. Plus the cost of any necessary parts, but those were
-usually minimal except in cases of major malfunction.
+usually minimal except in cases of major malfunction. I generally gave a quote
+at the beginning of a job.
 
-The price for a safe or lock varies with the level of security and other
-features.
+The rates charged by other safecrackers vary considerably, as do their
+expertise. The prices of safes and locks vary likewise with the level of
+security and other features.
 
 ## What do you do when you're not cracking safes?
 I ride [sexy Italian sportbikes][sexy-bike] and cook tasty [exotic grub][tasty-grub].
