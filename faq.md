@@ -43,8 +43,8 @@ tungsten-carbide chunks.
 
 ## Is there any safe you can't open?
 No. Some safes, however, make certain techniques infeasible. This is where the
-safecracker needs a mastery of various techniques. Don't worry. I'll get it
-open.
+safecracker needs a mastery of various techniques. Don't worry, a skilled
+professional can get it open.
 
 ## How much do you charge?
 I retired in February of 2020. Before that I charged $220 per hour with a
