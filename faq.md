@@ -61,7 +61,7 @@ security and other features.
 I ride [sexy Italian sportbikes][sexy-bike] and cook tasty [exotic grub][tasty-grub].
 
 Sometimes I play a sweet electric guitar with cool custom pick-up wiring. I'm
-better at the wiring than I am at the playing. But anyway, here's some
+better at the wiring than I am at the playing. But anyway, here's some of my
 instrumental music for your enjoyment: [The Star-Spangled Banner (MP3)][anthem]
 
 I'm also a [community defense enthusiast][gridscout].
