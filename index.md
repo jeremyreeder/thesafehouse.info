@@ -7,7 +7,7 @@ title: The Safe House™ — Jeremy Reeder, master safecracker
 - Jeremy Reeder, retired [master safecracker][cms]
 - The Safe House
 - Meridian, Idaho, USA
-- <jeremy@thesafehouse.info> — [OpenPGP public key][email-key]
+- <jeremy@gridscout.net> — [OpenPGP public key][email-key]
 
 Do you need a good safecracker or a vault repairman? I'm retired, but in my
 absence you can't go wrong with Lance Mayhew of [Ada County Lock &
@@ -64,7 +64,7 @@ All other content © 2004-2018 The Safe House™.
 
 
 [cms]:          https://en.wikipedia.org/wiki/Certified_Master_Safecracker
-[email-key]:    download/publickey.jeremy@thesafehouse.info.asc
+[email-key]:    download/publickey.jeremy@gridscout.net.asc
 [drill-rig]:    images/helixbullet.jpg
 [freepik]:      https://www.freepik.com
 [flaticon]:     https://www.flaticon.com

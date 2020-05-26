@@ -148,7 +148,7 @@ int main(short argc, unsigned char *argv[]) {
 	}
 	fprintf(stderr, "\nCipherSaber-2 stream-cipher, designed by Arnold Reinhold.\n");
 	fprintf(stderr, "Public-domain implementation in C by Jeremy Reeder, CipherKnight.\n");
-	fprintf(stderr, "Version 0.62 [2009-10-29], from <http://thesafehouse.info/tools.htm>.\n\n");
+	fprintf(stderr, "Version 0.71 [2020-05-22], from <https://safehouse.gridscout.net/tools.htm>.\n\n");
 	fprintf(stderr, "To encrypt:  %s -e N \"K\" <inputfile >outputfile\n", argv[0]);
 	fprintf(stderr, "To decrypt:  %s -d N \"K\" <inputfile >outputfile\n", argv[0]);
 	fprintf(stderr, "   where N is the number of rounds in the ARC4-KSA shuffling process\n");

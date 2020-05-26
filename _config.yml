@@ -19,11 +19,11 @@ logo_64x64: /images/favicon-64x64.png
 logo_120x120: /images/favicon-120x120.png
 logo_256x256: /images/favicon-256x256.png
 logo_480x480: /images/favicon-480x480.png
-email: jeremy@thesafehouse.info
+email: jeremy@gridscout.net
 description: >- # this means to ignore newlines until "baseurl:"
   For security or breach thereof.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.thesafehouse.info" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://safehouse.gridscout.net" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 show_downloads:   false # I link to the downloads within the README on GitHub instead
