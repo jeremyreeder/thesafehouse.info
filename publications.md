@@ -8,15 +8,13 @@ title: Security Publications by Jeremy Reeder
 *Jeremy Reeder, security aficionado*
 </div>
 
-I've written numerous articles, some public and others of a more protected
-nature, on security and on security penetration. I've also produced some
-open-source software related to these same topics. The following are a few of
-my published works:
+I've written a book and several articles on security and penetration thereof.
+I've also produced some open-source software. These are a few of my published
+works.
 
-# Books
-- _[Geometry of Safecracking][geometry]_, 2014.
 
 # Software
+
 - [GridScout Map™][gridscout] — a map-search tool for community defense
   planners, bridging the gap between paper maps and Internet hotness. 2018.
 
@@ -30,7 +28,14 @@ my published works:
 - [ComboGenerator™][tools] — a generator of pseudo-random combinations suitable
   for use with a combination lock. 2004.
 
+
+# Books
+
+- _[Geometry of Safecracking][geometry]_, 2014.
+
+
 # Magazine Articles
+
 - "[Unlocking a Gary TL-15 Round-door Safe][gary-tl15]: Taking a dialectic
   approach to safe opening", _Safe & Vault Technology_, Volume 22, Issue 5,
   September 2007.  (Republished in _Locksmith Ledger_, July 2009.)
