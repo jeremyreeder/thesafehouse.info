@@ -17,8 +17,8 @@ my published works:
 - _[Geometry of Safecracking][geometry]_, 2014.
 
 # Software
-- [GridScout™][gridscout] — a map-search tool for community-defense planners,
-  bridging the gap between paper maps and Internet hotness. 2018.
+- [GridScout Map™][gridscout] — a map-search tool for community defense
+  planners, bridging the gap between paper maps and Internet hotness. 2018.
 
 - [CS2][saber-source] — an implementation in C of Arnold Reinhold's
   [CipherSaber™][saber-home] series of encryption algorithms. 2009.
