@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Safe House™ (OUT OF BUSINESS)
+title: The Safe House™ (RETIRED)
 logo_16x16: /favicon.ico
 logo_64x64: /images/favicon-64x64.png
 logo_120x120: /images/favicon-120x120.png
