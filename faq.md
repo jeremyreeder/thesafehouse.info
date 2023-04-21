@@ -64,7 +64,7 @@ Sometimes I play a sweet electric guitar with cool custom pick-up wiring. I'm
 better at the wiring than I am at the playing, but here's some of my
 instrumental music for your enjoyment: [The Star-Spangled Banner (MP3)][anthem]
 
-I'm also a [knot aficionado][knots] and [community defense enthusiast][gridscout].
+I'm also a [knot aficionado][knots] and [map enthusiast][gridscout].
 
 
 [anthem]:     download/StarSpangledBanner1.mp3
