@@ -71,5 +71,5 @@ All other content © 2004-2018 The Safe House™.
 [icon-license]: http://creativecommons.org/licenses/by/3.0
 [lock-picks]:   images/jacknife-open.jpg
 [logo]:         images/cracker.png
-[mayhew]:       https://www.adacountylockandsafe.com
+[mayhew]:       http://www.adacountylockandsafe.com
 [portrait]:     images/JeremyReeder.jpg
