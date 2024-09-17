@@ -17,34 +17,34 @@ this.
 ### Why transfer?
 We do it because we can see the lock's wheels but not its fence If we could
 see the wheels and the fence at the same time, we'd simply align the gates of
-the wheels with the fence and unlock the safe Which, on the surface, seems
+the wheels with the fence and unlock the safe. Which, on the surface, seems
 more appealing, doesn't it?
 
 Let's say you intend to drill at a location that allows you to view the fence
-as well as the wheels This is a sensible and common goal.  Then, when you
+as well as the wheels. This is a sensible and common goal. Then, when you
 finish the hole, let's say you can see the wheels but the fence is nowhere in
-sight What now?  You were obviously wrong about the location of the fence,
-but that's okay Through combination transference, you can make multiple
-guesses at the fence location and easily try them all out You don't have to
-drill any additional holes to do this, so the safe will be open in no time.
-Transferring is cool like that.
+sight What now? You were obviously wrong about the location of the fence, but
+that's okay. Through combination transference, you can make multiple guesses at
+the fence location and easily try them all out. You don't have to drill any
+additional holes to do this, so the safe will be open in no time. Transferring
+is cool like that.
 
 The funny thing is that we sometimes choose to drill a hole in a place that
 doesn't let us see the fence, thereby requiring ourselves to transfer the
-combination we find I do this frequently, simply because the location of the
-fence is usually a very minor consideration for me The fence is often above
-the wheelpack, and I usually place my drill points below the wheelpack This
+combination we find. I do this frequently, simply because the location of the
+fence is usually a very minor consideration for me. The fence is often above
+the wheelpack, and I usually place my drill points below the wheelpack. This
 way, I avoid depositing drill shavings into the wheelpack through the hole I
-drill When I get debris between wheels, the wheels stick together, which
+drill. When I get debris between wheels, the wheels stick together, which
 sucks monkeys. (More specifically, it causes a wheel to transfer motion to
 another wheel even when the former's drive pin is not in contact with the
-latter's fly This makes it very difficult to properly align the wheels.)
+latter's fly. This makes it very difficult to properly align the wheels.)
 
 ### How to transfer
 When we can see an edge of the lock's wheelpack through a drilled hole, it's
 easy to turn the dial knob and note which combination aligns the gates of the
 wheels at that hole If you can do this, you can transfer the combination to
-align the gates at the fence, thereby unlocking the safe Relax, dude, it's a
+align the gates at the fence, thereby unlocking the safe. Relax, dude, it's a
 piece of cake.
 
 The procedure of determining a combination and transferring it to the fence is as follows:
@@ -113,9 +113,9 @@ combination. Adding 25 to each number, for example, has the same effect as
 transferring the combination 90 degrees counterclockwise.
 
 It works, but I advise against this method It's not very complicated, but
-it's more complicated than it needs to be I find it surprisingly easy to mix
-up whether I should be adding or subtracting The same mistake has been made
-by other good safecrackers, both on the job and in published works This
+it's more complicated than it needs to be. I find it surprisingly easy to mix
+up whether I should be adding or subtracting. The same mistake has been made
+by other good safecrackers, both on the job and in published works. This
 simple mistake can waste a lot of time, so I favor the non-mathematical
 approach.
 
